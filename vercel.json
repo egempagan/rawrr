@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/laserpiwpiw",
+      "destination": "/api/checker.js0"
+    }
+  ]
+}
