@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/laserpiwpiw",
-      "destination": "/bebas/checker.js"
+      "destination": "/api/checker.js"
     }
   ]
 }
