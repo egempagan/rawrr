@@ -1,0 +1,12 @@
+{
+  "name": "script-hoster",
+  "version": "1.0.0",
+  "description": "Hosting buat script Roblox",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
